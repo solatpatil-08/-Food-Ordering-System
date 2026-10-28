@@ -1,0 +1,2 @@
+# Implemented features
+Customer registration/list/find/delete with order-history guard; restaurant/category/menu creation and listing; food search and availability toggle; persistent cart and single-restaurant restriction; transactional checkout and historical order snapshots; order listing/status transitions/cancellation rules; basic database-backed counts and delivered-sales report; sample-data seed; JUnit unit tests. Authentication, payment, and MySQL integration tests are intentionally omitted.

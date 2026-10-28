@@ -1,0 +1,2 @@
+# Demo guide
+Start MySQL and set DB environment variables, run `mvn exec:java`, and answer `y` to seed data if the database is empty. Sample customers: aarav@example.com, sneha@example.com, rohan@example.com. Use Customer Management to obtain generated IDs; view restaurants and categories; add menu items to a customer's cart; confirm checkout; advance statuses one step at a time. Cancellation is allowed only for PLACED and CONFIRMED orders.
